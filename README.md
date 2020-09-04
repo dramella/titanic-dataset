@@ -1,2 +1,3 @@
 # titanic-dataset
-Titanic: Machine Learning from Disaster. Kaggle competition
+Titanic: Machine Learning from Disaster.
+https://www.kaggle.com/c/titanic
